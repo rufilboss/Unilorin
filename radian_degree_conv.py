@@ -35,7 +35,7 @@ def main():
                 print("Invalid input. Please enter a numeric value.\n")
 
         elif choice == '3':
-            print("Thank you for using the converter. Goodbye!")
+            print("Thank you for using this converter developed by ILYAS RUFAI. Goodbye!")
             break
 
         else:
